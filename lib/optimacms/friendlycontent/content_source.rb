@@ -1,3 +1,5 @@
+require 'optimacms/remote_content/content_source_base'
+
 module Optimacms
   module Friendlycontent
       class ContentSource < ::Optimacms::RemoteContent::ContentSourceBase
