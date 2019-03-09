@@ -1,5 +1,7 @@
 require "engine"
 require "configuration"
+require "optimacms/friendlycontent/content_source"
+require "optimacms/friendlycontent/content_source_factory"
 
 module Optimacms::Friendlycontent
 
